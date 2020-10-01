@@ -1,0 +1,12 @@
+c:\users\novil\documents\tugas\pbo\GoLaundry\GoLaundry\bin\Debug\GoLaundry.exe.config
+C:\Users\novil\Documents\Tugas\PBO\GoLaundry\GoLaundry\bin\Debug\GoLaundry.exe
+C:\Users\novil\Documents\Tugas\PBO\GoLaundry\GoLaundry\bin\Debug\GoLaundry.pdb
+C:\Users\novil\Documents\Tugas\PBO\GoLaundry\GoLaundry\bin\Debug\GoLaundry.xml
+C:\Users\novil\Documents\Tugas\PBO\GoLaundry\GoLaundry\obj\Debug\GoLaundry.Pelanggan.resources
+C:\Users\novil\Documents\Tugas\PBO\GoLaundry\GoLaundry\obj\Debug\GoLaundry.Resources.resources
+C:\Users\novil\Documents\Tugas\PBO\GoLaundry\GoLaundry\obj\Debug\GoLaundry.vbproj.GenerateResource.Cache
+C:\Users\novil\Documents\Tugas\PBO\GoLaundry\GoLaundry\obj\Debug\GoLaundry.exe
+C:\Users\novil\Documents\Tugas\PBO\GoLaundry\GoLaundry\obj\Debug\GoLaundry.xml
+C:\Users\novil\Documents\Tugas\PBO\GoLaundry\GoLaundry\obj\Debug\GoLaundry.pdb
+C:\Users\novil\Documents\Tugas\PBO\GoLaundry\GoLaundry\obj\Debug\GoLaundry.Karyawan.resources
+C:\Users\novil\Documents\Tugas\PBO\GoLaundry\GoLaundry\obj\Debug\GoLaundry.Transaksi.resources
