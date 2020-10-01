@@ -2,7 +2,7 @@
 
 Module Connection
 
-    Public Connection As OdbcConnection = New OdbcConnection("DSN=laundryOK")
+    Public Connection As OdbcConnection = New OdbcConnection("DSN=GoLaundry")
     Public Command As New OdbcCommand
 
     Public Sub SetConnection()
