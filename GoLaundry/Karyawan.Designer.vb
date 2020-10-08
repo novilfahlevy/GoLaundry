@@ -26,7 +26,7 @@ Partial Class Karyawan
         Me.Perempuan = New System.Windows.Forms.RadioButton()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.LakiLaki = New System.Windows.Forms.RadioButton()
-        Me.TransaksiForm = New System.Windows.Forms.Button()
+        Me.FormTransaksi = New System.Windows.Forms.Button()
         Me.FormKaryawan = New System.Windows.Forms.Button()
         Me.FormPelanggan = New System.Windows.Forms.Button()
         Me.MuatUlangData = New System.Windows.Forms.Button()
@@ -90,14 +90,14 @@ Partial Class Karyawan
         Me.LakiLaki.Text = "Laki-laki"
         Me.LakiLaki.UseVisualStyleBackColor = True
         '
-        'TransaksiForm
+        'FormTransaksi
         '
-        Me.TransaksiForm.Location = New System.Drawing.Point(24, 180)
-        Me.TransaksiForm.Name = "TransaksiForm"
-        Me.TransaksiForm.Size = New System.Drawing.Size(181, 39)
-        Me.TransaksiForm.TabIndex = 88
-        Me.TransaksiForm.Text = "Transaksi"
-        Me.TransaksiForm.UseVisualStyleBackColor = True
+        Me.FormTransaksi.Location = New System.Drawing.Point(24, 180)
+        Me.FormTransaksi.Name = "FormTransaksi"
+        Me.FormTransaksi.Size = New System.Drawing.Size(181, 39)
+        Me.FormTransaksi.TabIndex = 88
+        Me.FormTransaksi.Text = "Transaksi"
+        Me.FormTransaksi.UseVisualStyleBackColor = True
         '
         'FormKaryawan
         '
@@ -279,7 +279,7 @@ Partial Class Karyawan
         Me.Controls.Add(Me.Perempuan)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.LakiLaki)
-        Me.Controls.Add(Me.TransaksiForm)
+        Me.Controls.Add(Me.FormTransaksi)
         Me.Controls.Add(Me.FormKaryawan)
         Me.Controls.Add(Me.FormPelanggan)
         Me.Controls.Add(Me.MuatUlangData)
@@ -311,7 +311,7 @@ Partial Class Karyawan
     Friend WithEvents Perempuan As System.Windows.Forms.RadioButton
     Friend WithEvents Label7 As System.Windows.Forms.Label
     Friend WithEvents LakiLaki As System.Windows.Forms.RadioButton
-    Friend WithEvents TransaksiForm As System.Windows.Forms.Button
+    Friend WithEvents FormTransaksi As System.Windows.Forms.Button
     Friend WithEvents FormKaryawan As System.Windows.Forms.Button
     Friend WithEvents FormPelanggan As System.Windows.Forms.Button
     Friend WithEvents MuatUlangData As System.Windows.Forms.Button

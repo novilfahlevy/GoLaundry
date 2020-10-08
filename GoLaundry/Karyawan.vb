@@ -6,7 +6,7 @@
 
     End Sub
 
-    Private Sub TransaksiForm_Click(sender As Object, e As EventArgs) Handles TransaksiForm.Click
+    Private Sub FormTransaksi_Click(sender As Object, e As EventArgs) Handles FormTransaksi.Click
 
         ShowForm(Transaksi)
 
@@ -14,11 +14,7 @@
 
     Private Sub Keluar_Click(sender As Object, e As EventArgs) Handles Keluar.Click
 
-        HideAllForm()
-
-    End Sub
-
-    Private Sub Karyawan_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Logout()
 
     End Sub
 

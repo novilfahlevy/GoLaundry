@@ -15,4 +15,11 @@
 
     End Sub
 
+    Sub Logout()
+
+        HideAllForm()
+        Application.Exit()
+
+    End Sub
+
 End Module

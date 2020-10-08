@@ -15,11 +15,7 @@
 
     Private Sub Keluar_Click(sender As Object, e As EventArgs) Handles Keluar.Click
 
-        HideAllForm()
-
-    End Sub
-
-    Private Sub Transaksi_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Logout()
 
     End Sub
 

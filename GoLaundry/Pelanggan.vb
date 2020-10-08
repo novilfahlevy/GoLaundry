@@ -4,10 +4,10 @@ Public Class Pelanggan
 
     Private Sub Pelanggan_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
-        SetConnection()
+        'SetConnection()
 
-        TabelKaryawan.DataSource = GetDataSourceFromDB("SELECT * FROM pelanggan")
-        SetTableHeader(TabelKaryawan, {"ID", "Nama", "Alamat", "Telepon", "Email"})
+        'TabelKaryawan.DataSource = GetDataSourceFromDB("SELECT * FROM pelanggan")
+        'SetTableHeader(TabelKaryawan, {"ID", "Nama", "Alamat", "Telepon", "Email"})
 
     End Sub
 
@@ -17,7 +17,7 @@ Public Class Pelanggan
 
     End Sub
 
-    Private Sub TransaksiForm_Click(sender As Object, e As EventArgs) Handles TransaksiForm.Click
+    Private Sub FormTransaksi_Click(sender As Object, e As EventArgs) Handles FormTransaksi.Click
 
         ShowForm(Transaksi)
 
@@ -25,7 +25,7 @@ Public Class Pelanggan
 
     Private Sub Keluar_Click(sender As Object, e As EventArgs) Handles Keluar.Click
 
-        HideAllForm()
+        Logout()
 
     End Sub
 
